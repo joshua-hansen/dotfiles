@@ -1,0 +1,11 @@
+[user]
+	name = Joshua Hansen
+	email = me@joshuaha.dev
+[init]
+	defaultBranch=main
+[core]
+	editor = "vim"
+[alias]
+	lol = "log --oneline"
+	rom = "rebase origin/main"
+
